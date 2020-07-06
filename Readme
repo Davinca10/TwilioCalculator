@@ -1,0 +1,24 @@
+****TEST CALCULATOR FOR TWILIO*********
+
+This project tests the calculator function
+
+****** Start Project **********
+
+Is required :
+
+1 Appium http://appium.io/downloads.html
+2 Maven https://maven.apache.org/install.html
+3 IDE for example IntelliJ (https://www.jetbrains.com/es-es/idea/)
+
+
+***** Execute testing ******
+
+For execute testing please run the next command : mvn clean verify -Denvironment=android
+
+
+
+********* Suggestions of improvements ***********
+
+Include others basic operations how subtraction - multiplication - division.
+
+
